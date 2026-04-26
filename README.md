@@ -1,4 +1,5 @@
 📘 Blockchain Project with Hardhat
+
 📌 Project Overview
 
 This project demonstrates the development, testing, and deployment of smart contracts using the Hardhat development environment.
@@ -10,6 +11,7 @@ Hardhat
 Solidity
 Ethers.js
 JavaScript
+
 📁 Project Structure
 /project-root
 │
