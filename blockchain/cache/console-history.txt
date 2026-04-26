@@ -1,0 +1,30 @@
+)"0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199"await contract.addTechnician(
+)"0x5FbDB2315678afecb367f032d93F642f64180aa3""EquipmentPassport",const contract = await ethers.getContractAt(
+)"0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199"await contract.addTechnician(
+)"0x5FbDB2315678afecb367f032d93F642f64180aa3""EquipmentPassport",const contract = await ethers.getContractAt(
+)"0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199"await contract.addTechnician(
+)"0x5FbDB2315678afecb367f032d93F642f64180aa3""EquipmentPassport",const contract = await ethers.getContractAt(
+)"0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199"await contract.DEFAULT_ADMIN_ROLE(),await contract.grantRole(
+)"0x5FbDB2315678afecb367f032d93F642f64180aa3""EquipmentPassport",const contract = await ethers.getContractAt(
+await contract.equipmentCount()
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const Contract = await ethers.getContractFactory("EquipmentPassport")
+await contract.equipmentCount()
+const Contract = await ethers.getContractFactory("EquipmentPassport")
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await contract.equipmentCount()
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const Contract = await ethers.getContractFactory("EquipmentPassport")
+await contract.equipmentCount()
+await contract.registerEquipment("Capteur X","Hospital")
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const Contract = await ethers.getContractFactory("EquipmentPassport")
+await contract.equipmentCount()
+await contract.registerEquipment("Capteur X","Hospital")
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract = await Contract.attach("ADRESSE_DU_CONTRAT")
+const Contract = await ethers.getContractFactory("EquipmentPassport")
+await contract.equipmentCount()
+await contract.registerEquipment("Capteur X","Hospital")
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const Contract = await ethers.getContractFactory("EquipmentPassport"))
