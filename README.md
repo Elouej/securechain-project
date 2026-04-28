@@ -1,9 +1,9 @@
-# 🚀 SecureChain Project
+#  SecureChain Project
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/72329eb0-6cf7-4197-ba64-3114266d416e" />
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the development, testing, and deployment of smart contracts using the Hardhat development environment.
 
@@ -11,7 +11,7 @@ It aims to provide a practical understanding of blockchain concepts and smart co
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Node.js
 * Hardhat
@@ -21,7 +21,7 @@ It aims to provide a practical understanding of blockchain concepts and smart co
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project-root/
@@ -36,7 +36,7 @@ project-root/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -53,27 +53,27 @@ npm install
 
 ---
 
-## ▶️ Usage
+##  Usage
 
-### 🔹 Compile contracts
+### 1 Compile contracts
 
 ```bash
 npx hardhat compile
 ```
 
-### 🔹 Start local blockchain
+### 2 Start local blockchain
 
 ```bash
 npx hardhat node
 ```
 
-### 🔹 Deploy contract
+### 3 Deploy contract
 
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-### 🔹 Run tests
+### 4 Run tests
 
 ```bash
 npx hardhat test
@@ -81,7 +81,7 @@ npx hardhat test
 
 ---
 
-## 🧠 Key Notes
+## 5 Key Notes
 
 * Always compile after modifying contracts
 * Keep node running during testing
@@ -89,6 +89,6 @@ npx hardhat test
 
 ---
 
-## 👨‍💻 Author
+## Author :
 
 **ELOUEJ ACHRAF**
