@@ -1,5 +1,6 @@
 # 🚀 SecureChain Project
-                      <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/09f9033d-76c9-4ec1-95f8-f9d91e9641f4" />
+                                             <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/72329eb0-6cf7-4197-ba64-3114266d416e" />
+
 
 
 ## 📌 Project Overview
